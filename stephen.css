@@ -2,7 +2,7 @@ body {
   background-color: #D1CEC6;
 }
 
-html,body{
+/*html,body{
   height:100%;
  }
 .container {
@@ -106,7 +106,7 @@ html,body{
 
 @font-face {
   font-family: 'Raleway';
-  font-weight: 100; /* Thin 
+  font-weight: 100;  Thin 
   src: url('raleway_thin-webfont.eot?#iefix') format('embedded-opentype'),
   url('raleway_thin-webfont.woff') format('woff'),
   url('raleway_thin-webfont.ttf')  format('truetype'),
@@ -122,7 +122,7 @@ html,body{
 }
 
 #stylist{
-/*  font-family:*/
+  font-family:
   color: #01065C;
   font-size: 50px;
   text-align: center;
@@ -144,10 +144,10 @@ html,body{
   display: block;
   padding-top: 25px;
 }*/
-
 #place-holder {
   padding-top: 100px;
   text-align: center;
 }
+
 
 
